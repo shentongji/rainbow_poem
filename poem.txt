@@ -1,4 +1,4 @@
-The rainbow
+The rainbow and the unicorn
 red
 orange
 yellow
@@ -8,3 +8,4 @@ ble
 purple
 colors of the rainbow
 I don't like yellow anymore.
+But I like the unicorn.
