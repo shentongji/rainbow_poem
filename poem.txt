@@ -1,3 +1,9 @@
 The rainbow
-
+red
+orange
+yellow
+green
+lightgreen
+ble
+purple
 colors of the rainbow
